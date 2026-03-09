@@ -1,5 +1,18 @@
-# 💫 About Me:
-Full Stack & Polyglot Engineer | Multi-Stack Web Architect | AI-Driven Systems<br><br>I am a Full Stack and AI Systems Engineer with 8+ years of experience designing and delivering scalable web, mobile, and cloud-based applications.<br><br>Over the years I have worked across multiple stacks and ecosystems. This allows me to think beyond specific frameworks and instead focus on architecture, maintainability, and long-term scalability.<br><br>I operate as a polyglot engineer, comfortable moving across frontend systems, backend infrastructure, databases, and cloud platforms to ship complete production-grade systems.
+## 💫 About Me:
+Full Stack Engineer | Multi-Stack Web Architect | CTO at Concepteur Technologies
+I'm a Full Stack Engineer with 8+ years of experience building complete, production-grade web and mobile applications — from pixel-perfect frontends to scalable backends, cloud infrastructure, and now AI-integrated systems.
+I move comfortably across multiple stacks and ecosystems — which means I think in architecture, not just frameworks.
+What I work with:
+
+Frontend: React, Next.js, Angular (14–21), Vue
+Backend: Node.js, NestJS, Laravel, Symfony, CodeIgniter, PHP
+Mobile: Flutter
+Databases: MySQL, PostgreSQL, MariaDB, MongoDB
+Cloud: AWS, Google Cloud, Azure
+AI: LLM integration, OCR, chatbots, Ollama, OpenRouter
+
+Currently building AI agents and LLM-powered systems on top of my full stack foundation.
+
 
 
 ## 🌐 Socials:
