@@ -38,12 +38,11 @@ Currently focused on:
 `LLM Integration` `Ollama` `OpenRouter` `OCR` `OpenCV` `Chatbots`
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proparna-das&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proparna-das&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-main-ryo-ma.vercel.app/api?username=proparna-das&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-git-main-ryo-ma.vercel.app/api/top-langs/?username=proparna-das&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
