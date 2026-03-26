@@ -59,7 +59,7 @@ Currently focused on:
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=proparna-das&theme=flat&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=proparna-das&theme=flat&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
