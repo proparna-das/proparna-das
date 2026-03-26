@@ -41,8 +41,7 @@ Currently focused on:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-ryo-ma.vercel.app/api?username=proparna-das&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-main-ryo-ma.vercel.app/api/top-langs/?username=proparna-das&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=proparna-das&show_icons=true"/>
 </p>
 
 ---
